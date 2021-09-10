@@ -1,5 +1,5 @@
 # Forecasting_Mercado_Libre
-Analyze the Financial and User data for Mercado Libre E-Commerce website based in Mexico. Forecast the Search Trends, Stock Price and Total Revenue to infer how well the E-Commerce company is doing and to advise the financial team on how well the website has been trending, total revenue, and investor behavior.
+Analyze the Financial and User data for Mercado Libre E-Commerce website based in Mexico. Forecast the Search Trends, Stock Price and Total Revenue to infer how well the E-Commerce company is doing and to advise the financial team on how well the website has been trending, total revenue, and quantifying investor behavior.
 
 ## Purpose
 Understand trends across multiple time series to capture important times and periocity. Use date time format to leverage with Pandas tools for time periods as well with using Facebook Prophet plot_components function to plot daily, yearly, weekly, and trend of the financial and user data.
